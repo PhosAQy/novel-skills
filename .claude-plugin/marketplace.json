@@ -1,6 +1,5 @@
 {
   "name": "novel-skills",
-  "version": "1.0.0",
   "owner": {
     "name": "PhosA",
     "email": "phosa@qq.com"
@@ -8,14 +7,9 @@
   "plugins": [
     {
       "name": "novel",
-      "source": {
-        "source": "github",
-        "repo": "PhosAQy/novel-skills"
-      },
+      "source": "./",
+      "version": "1.0.0",
       "description": "Complete AI-powered novel creation system with planning, writing, reviewing, and analytics capabilities"
     }
-  ],
-  "metadata": {
-    "description": "Complete AI-powered novel creation system - from volume planning to chapter generation, quality review, and analytics. All-in-one fiction writing platform for Claude Code."
-  }
+  ]
 }
