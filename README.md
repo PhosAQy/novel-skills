@@ -26,7 +26,7 @@ claude plugin install novel-skills
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/novel-skills.git
+git clone https://github.com/PhosAQy/novel-skills.git
 
 # Install the plugin
 claude plugin install ./novel-skills
