@@ -1,5 +1,7 @@
 # Novel Skills - Claude Code Plugin
 
+[中文](README_zh.md) | English
+
 Complete AI-powered novel creation system for Claude Code. From volume planning to chapter generation, quality review, and analytics - an all-in-one fiction writing platform.
 
 ## Features
@@ -61,7 +63,7 @@ Forget everything and just say what you want!!!
 
 ### Story Integrity First
 
-This plugin follows the principle: **"Better to be bad than broken"** (宁可烂，不可乱)
+This plugin follows the principle: **"Better to be bad than broken"** 
 
 - **No outline = No execution**: Always plan before writing
 - **Systematic integrity over creativity**: Follow outlines 100%
