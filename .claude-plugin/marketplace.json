@@ -10,7 +10,7 @@
       "name": "novel",
       "source": {
         "source": "github",
-        "repo": "https://github.com/PhosAQy/novel-skills.git"
+        "repo": "PhosAQy/novel-skills"
       },
       "description": "Complete AI-powered novel creation system with planning, writing, reviewing, and analytics capabilities"
     }
